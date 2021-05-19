@@ -87,7 +87,7 @@ function CountBlock() {
 
     return (
         <div style={{textAlign: 'center'}}>
-          <h1 style={{margin:'50px'}}>Pomadero Task Timer</h1>
+          <h1 style={{margin:'50px'}}>Pomodoro Task Timer</h1>
           <div style={{fontSize: '100px'}}>
             <span>{time}</span>
           </div>
